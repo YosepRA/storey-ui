@@ -1,11 +1,27 @@
 import React from 'react';
-import Button from '@mui/material/Button';
+import Container from '@mui/material/Container';
+import Box from '@mui/material/Box';
+import Typography from '@mui/material/Typography';
+
+import MainAppBar from 'components/MainAppBar.tsx';
+import Features from './home/Features.tsx';
+import ContentPreview from './home/ContentPreview.tsx';
 
 const Home = function HomeComponent() {
   return (
     <>
-      <Button variant="contained">Button</Button>
-      <h1>Home</h1>
+      <MainAppBar />
+
+      <Container>
+        <Box sx={{ my: 3 }}>
+          <Typography variant="h4">Hi Username</Typography>
+          <Typography>What item do you want today?</Typography>
+        </Box>
+
+        <Features />
+
+        <ContentPreview />
+      </Container>
     </>
   );
 };
