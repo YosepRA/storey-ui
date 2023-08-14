@@ -26,7 +26,9 @@ export default function RootLayout({
           className="mobile-box"
           sx={{ width: 1, maxWidth: 576, marginX: 'auto' }}
         >
-          {children}
+          <Box component="main" className="main-container" sx={{ pb: 5 }}>
+            {children}
+          </Box>
         </Box>
       </body>
     </html>

@@ -1,0 +1,2227 @@
+[
+  {
+    "_id": "64be32c673968b1fb3cd6716",
+    "title": "Bespoke Frozen Chips",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66da",
+          "name": "Incredible Granite Chair",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5813897613279232",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66db"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=392747913576448",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66dc"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1595271146373120",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66dd"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8958114579611648",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66de"
+            }
+          ],
+          "categories": ["vegetables", "fruit", "meat"],
+          "price": 7502,
+          "netto": 55,
+          "unit": "pcs",
+          "pricePerUnit": 136.4,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-14T22:31:22.095Z",
+          "__v": 0
+        },
+        "amount": 10,
+        "_id": "64be32c673968b1fb3cd6717"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd665d",
+          "name": "Handmade Metal Cheese",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5458002282807296",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd665e"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=666934878142464",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd665f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8343376577429504",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6660"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3228772211884032",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6661"
+            }
+          ],
+          "categories": ["fruit", "dairy", "fruit"],
+          "price": 2789,
+          "netto": 74,
+          "unit": "kg",
+          "pricePerUnit": 37.68,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T19:58:27.470Z",
+          "__v": 0
+        },
+        "amount": 10,
+        "_id": "64be32c673968b1fb3cd6718"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd664a",
+          "name": "Tasty Fresh Cheese",
+          "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8462254141865984",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd664b"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3559196870049792",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd664c"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8059888242524160",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd664d"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8346601011544064",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd664e"
+            }
+          ],
+          "categories": ["dairy"],
+          "price": 2663,
+          "netto": 12,
+          "unit": "pcs",
+          "pricePerUnit": 221.91,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T08:44:12.390Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6719"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66b8",
+          "name": "Gorgeous Frozen Computer",
+          "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8081401091981312",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66b9"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5028660327219200",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66ba"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8110244802592768",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66bb"
+            }
+          ],
+          "categories": ["beverage"],
+          "price": 5767,
+          "netto": 33,
+          "unit": "g",
+          "pricePerUnit": 174.75,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T12:24:00.453Z",
+          "__v": 0
+        },
+        "amount": 5,
+        "_id": "64be32c673968b1fb3cd671a"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6665",
+          "name": "Handcrafted Concrete Tuna",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5325936973053952",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6666"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5742607177089024",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6667"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2474473913581568",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6668"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7991301970591744",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6669"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 4337,
+          "netto": 38,
+          "unit": "g",
+          "pricePerUnit": 114.13,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T17:32:03.617Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd671b"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd668e",
+          "name": "Elegant Wooden Hat",
+          "description": "The Football Is Good For Training And Recreational Purposes",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6332231832305664",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd668f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3637432874434560",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6690"
+            }
+          ],
+          "categories": ["beverage", "vegetables", "fruit"],
+          "price": 9487,
+          "netto": 25,
+          "unit": "kg",
+          "pricePerUnit": 379.48,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-20T16:57:41.758Z",
+          "__v": 0
+        },
+        "amount": 10,
+        "_id": "64be32c673968b1fb3cd671c"
+      }
+    ],
+    "price": 263289,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-23T14:08:58.538Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd6752",
+    "title": "Gorgeous Frozen Soap",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6655",
+          "name": "Awesome Granite Ball",
+          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2668594504663040",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6656"
+            }
+          ],
+          "categories": ["food"],
+          "price": 9688,
+          "netto": 35,
+          "unit": "l",
+          "pricePerUnit": 276.8,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T07:42:19.982Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6753"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd669f",
+          "name": "Gorgeous Metal Bacon",
+          "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4236091490041856",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66a0"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5695304579940352",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66a1"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8857888141344768",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66a2"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5706328322342912",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66a3"
+            }
+          ],
+          "categories": ["food"],
+          "price": 4327,
+          "netto": 31,
+          "unit": "kg",
+          "pricePerUnit": 139.58,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-20T08:30:53.453Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6754"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd662d",
+          "name": "Tasty Wooden Soap",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5509281908523008",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd662e"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4726585783484416",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd662f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=63647648841728",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6630"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3890614871523328",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6631"
+            }
+          ],
+          "categories": ["food", "fruit", "dairy"],
+          "price": 1007,
+          "netto": 26,
+          "unit": "pcs",
+          "pricePerUnit": 38.73,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T02:41:51.457Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd6755"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66c0",
+          "name": "Rustic Soft Salad",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5462227375095808",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66c1"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5230360164040704",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66c2"
+            }
+          ],
+          "categories": ["fruit", "beverage"],
+          "price": 1757,
+          "netto": 95,
+          "unit": "l",
+          "pricePerUnit": 18.49,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T06:01:31.132Z",
+          "__v": 0
+        },
+        "amount": 2,
+        "_id": "64be32c673968b1fb3cd6756"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66b2",
+          "name": "Fantastic Metal Computer",
+          "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8328899679223808",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66b3"
+            }
+          ],
+          "categories": ["beverage", "food"],
+          "price": 2237,
+          "netto": 71,
+          "unit": "g",
+          "pricePerUnit": 31.5,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T22:17:06.865Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6757"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66cb",
+          "name": "Intelligent Metal Pants",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6702892138364928",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66cc"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7649124434313216",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66cd"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6493649508499456",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66ce"
+            }
+          ],
+          "categories": ["dairy", "beverage", "fruit"],
+          "price": 5445,
+          "netto": 39,
+          "unit": "pcs",
+          "pricePerUnit": 139.61,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T18:24:20.490Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd6758"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6634",
+          "name": "Modern Bronze Cheese",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1798501553930240",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6635"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3444911351267328",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6636"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4631812030595072",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6637"
+            }
+          ],
+          "categories": ["beverage"],
+          "price": 4297,
+          "netto": 31,
+          "unit": "ml",
+          "pricePerUnit": 138.61,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-14T12:15:26.869Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd6759"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6698",
+          "name": "Incredible Plastic Salad",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2157781675147264",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6699"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6131249687035904",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd669a"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1305096950382592",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd669b"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4782233592266752",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd669c"
+            }
+          ],
+          "categories": ["meat"],
+          "price": 1463,
+          "netto": 13,
+          "unit": "l",
+          "pricePerUnit": 112.53,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-19T10:45:50.678Z",
+          "__v": 0
+        },
+        "amount": 8,
+        "_id": "64be32c673968b1fb3cd675a"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66a4",
+          "name": "Electronic Soft Pizza",
+          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2889329984667648",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66a5"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4577447685128192",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66a6"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1680009351659520",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66a7"
+            }
+          ],
+          "categories": ["meat", "vegetables"],
+          "price": 5822,
+          "netto": 84,
+          "unit": "l",
+          "pricePerUnit": 69.3,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T09:14:15.801Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd675b"
+      }
+    ],
+    "price": 175077,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-23T11:44:57.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd6728",
+    "title": "Handcrafted Frozen Pants",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6665",
+          "name": "Handcrafted Concrete Tuna",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5325936973053952",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6666"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5742607177089024",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6667"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2474473913581568",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6668"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7991301970591744",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6669"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 4337,
+          "netto": 38,
+          "unit": "g",
+          "pricePerUnit": 114.13,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T17:32:03.617Z",
+          "__v": 0
+        },
+        "amount": 10,
+        "_id": "64be32c673968b1fb3cd6729"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66df",
+          "name": "Incredible Fresh Salad",
+          "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6734852038590464",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66e0"
+            }
+          ],
+          "categories": ["meat", "vegetables", "dairy"],
+          "price": 5229,
+          "netto": 96,
+          "unit": "l",
+          "pricePerUnit": 54.46,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T04:31:22.878Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd672a"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd666e",
+          "name": "Recycled Steel Hat",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3850947163848704",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd666f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=998815769296896",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6670"
+            }
+          ],
+          "categories": ["meat"],
+          "price": 7939,
+          "netto": 33,
+          "unit": "l",
+          "pricePerUnit": 240.57,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T02:07:55.274Z",
+          "__v": 0
+        },
+        "amount": 1,
+        "_id": "64be32c673968b1fb3cd672b"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66d5",
+          "name": "Fantastic Granite Tuna",
+          "description": "The Football Is Good For Training And Recreational Purposes",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6025132287983616",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66d6"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4436205011730432",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66d7"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7783729434984448",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66d8"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1758592487129088",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66d9"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 4909,
+          "netto": 82,
+          "unit": "l",
+          "pricePerUnit": 59.86,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-22T00:59:17.531Z",
+          "__v": 0
+        },
+        "amount": 1,
+        "_id": "64be32c673968b1fb3cd672c"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66c6",
+          "name": "Handcrafted Cotton Tuna",
+          "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2020038362005504",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66c7"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1584593763303424",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66c8"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6414740150550528",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66c9"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=162808392056832",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66ca"
+            }
+          ],
+          "categories": ["dairy", "vegetables", "dairy"],
+          "price": 5939,
+          "netto": 54,
+          "unit": "g",
+          "pricePerUnit": 109.98,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-21T23:17:34.402Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd672d"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd664f",
+          "name": "Elegant Bronze Towels",
+          "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4691258012336128",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6650"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=407371188797440",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6651"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 7546,
+          "netto": 93,
+          "unit": "ml",
+          "pricePerUnit": 81.13,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-14T17:33:05.700Z",
+          "__v": 0
+        },
+        "amount": 7,
+        "_id": "64be32c673968b1fb3cd672e"
+      }
+    ],
+    "price": 158231,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-21T19:14:00.488Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd672f",
+    "title": "Handcrafted Bronze Chicken",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6691",
+          "name": "Incredible Frozen Bike",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6271751306608640",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6692"
+            }
+          ],
+          "categories": ["fruit"],
+          "price": 1584,
+          "netto": 98,
+          "unit": "g",
+          "pricePerUnit": 16.16,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-19T08:53:35.166Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd6730"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66a4",
+          "name": "Electronic Soft Pizza",
+          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2889329984667648",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66a5"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4577447685128192",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66a6"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1680009351659520",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66a7"
+            }
+          ],
+          "categories": ["meat", "vegetables"],
+          "price": 5822,
+          "netto": 84,
+          "unit": "l",
+          "pricePerUnit": 69.3,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T09:14:15.801Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd6731"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd662b",
+          "name": "Ergonomic Frozen Fish",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8453731307749376",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd662c"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 6858,
+          "netto": 11,
+          "unit": "l",
+          "pricePerUnit": 623.45,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-22T05:16:16.592Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd6732"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66cb",
+          "name": "Intelligent Metal Pants",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6702892138364928",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66cc"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7649124434313216",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66cd"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6493649508499456",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66ce"
+            }
+          ],
+          "categories": ["dairy", "beverage", "fruit"],
+          "price": 5445,
+          "netto": 39,
+          "unit": "pcs",
+          "pricePerUnit": 139.61,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T18:24:20.490Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6733"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6691",
+          "name": "Incredible Frozen Bike",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6271751306608640",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6692"
+            }
+          ],
+          "categories": ["fruit"],
+          "price": 1584,
+          "netto": 98,
+          "unit": "g",
+          "pricePerUnit": 16.16,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-19T08:53:35.166Z",
+          "__v": 0
+        },
+        "amount": 8,
+        "_id": "64be32c673968b1fb3cd6734"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd669f",
+          "name": "Gorgeous Metal Bacon",
+          "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4236091490041856",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66a0"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5695304579940352",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66a1"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8857888141344768",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66a2"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5706328322342912",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66a3"
+            }
+          ],
+          "categories": ["food"],
+          "price": 4327,
+          "netto": 31,
+          "unit": "kg",
+          "pricePerUnit": 139.58,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-20T08:30:53.453Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd6735"
+      }
+    ],
+    "price": 162087,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-20T17:57:17.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd6743",
+    "title": "Refined Fresh Pants",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6662",
+          "name": "Luxurious Fresh Soap",
+          "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2980464438542336",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6663"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=859377925881856",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6664"
+            }
+          ],
+          "categories": ["dairy", "food", "food"],
+          "price": 2042,
+          "netto": 93,
+          "unit": "l",
+          "pricePerUnit": 21.95,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-23T16:58:43.022Z",
+          "__v": 0
+        },
+        "amount": 8,
+        "_id": "64be32c673968b1fb3cd6744"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6634",
+          "name": "Modern Bronze Cheese",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1798501553930240",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6635"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3444911351267328",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6636"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4631812030595072",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6637"
+            }
+          ],
+          "categories": ["beverage"],
+          "price": 4297,
+          "netto": 31,
+          "unit": "ml",
+          "pricePerUnit": 138.61,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-14T12:15:26.869Z",
+          "__v": 0
+        },
+        "amount": 1,
+        "_id": "64be32c673968b1fb3cd6745"
+      }
+    ],
+    "price": 20633,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-20T14:05:34.332Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd6741",
+    "title": "Intelligent Rubber Car",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66b2",
+          "name": "Fantastic Metal Computer",
+          "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8328899679223808",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66b3"
+            }
+          ],
+          "categories": ["beverage", "food"],
+          "price": 2237,
+          "netto": 71,
+          "unit": "g",
+          "pricePerUnit": 31.5,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T22:17:06.865Z",
+          "__v": 0
+        },
+        "amount": 8,
+        "_id": "64be32c673968b1fb3cd6742"
+      }
+    ],
+    "price": 17896,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-20T09:00:16.802Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd6736",
+    "title": "Ergonomic Granite Chair",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd669d",
+          "name": "Bespoke Wooden Soap",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=728262015713280",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd669e"
+            }
+          ],
+          "categories": ["vegetables", "meat"],
+          "price": 5030,
+          "netto": 99,
+          "unit": "l",
+          "pricePerUnit": 50.8,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T17:26:38.787Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd6737"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6681",
+          "name": "Gorgeous Wooden Shirt",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7955881314484224",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6682"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4857963038638080",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6683"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2921440242302976",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6684"
+            }
+          ],
+          "categories": ["fruit", "vegetables"],
+          "price": 5109,
+          "netto": 83,
+          "unit": "l",
+          "pricePerUnit": 61.55,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T06:26:49.882Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd6738"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6671",
+          "name": "Intelligent Steel Salad",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4281754332430336",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6672"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2831466960519168",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6673"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5073535336710144",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6674"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4580797568778240",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6675"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6264651920703488",
+              "fileName": "image-4",
+              "_id": "64be32c673968b1fb3cd6676"
+            }
+          ],
+          "categories": ["dairy", "meat"],
+          "price": 4954,
+          "netto": 19,
+          "unit": "g",
+          "pricePerUnit": 260.73,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T06:25:00.842Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd6739"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd668b",
+          "name": "Recycled Wooden Chicken",
+          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2426650568425472",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd668c"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3040967126941696",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd668d"
+            }
+          ],
+          "categories": ["dairy", "dairy", "vegetables"],
+          "price": 5807,
+          "netto": 47,
+          "unit": "g",
+          "pricePerUnit": 123.55,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-21T21:38:33.168Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd673a"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6677",
+          "name": "Awesome Plastic Hat",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1829012955463680",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6678"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2060830608719872",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6679"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8492469998059520",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd667a"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=693373411262464",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd667b"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5394100576583680",
+              "fileName": "image-4",
+              "_id": "64be32c673968b1fb3cd667c"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 2254,
+          "netto": 32,
+          "unit": "kg",
+          "pricePerUnit": 70.43,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-21T10:41:32.407Z",
+          "__v": 0
+        },
+        "amount": 5,
+        "_id": "64be32c673968b1fb3cd673b"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6681",
+          "name": "Gorgeous Wooden Shirt",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7955881314484224",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6682"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4857963038638080",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6683"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2921440242302976",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6684"
+            }
+          ],
+          "categories": ["fruit", "vegetables"],
+          "price": 5109,
+          "netto": 83,
+          "unit": "l",
+          "pricePerUnit": 61.55,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T06:26:49.882Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd673c"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6671",
+          "name": "Intelligent Steel Salad",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4281754332430336",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6672"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2831466960519168",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6673"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5073535336710144",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6674"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4580797568778240",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6675"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6264651920703488",
+              "fileName": "image-4",
+              "_id": "64be32c673968b1fb3cd6676"
+            }
+          ],
+          "categories": ["dairy", "meat"],
+          "price": 4954,
+          "netto": 19,
+          "unit": "g",
+          "pricePerUnit": 260.73,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T06:25:00.842Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd673d"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd663b",
+          "name": "Unbranded Frozen Towels",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3471523266428928",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd663c"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2743716930387968",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd663d"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=143811260973056",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd663e"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=879752218935296",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd663f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2079706650247168",
+              "fileName": "image-4",
+              "_id": "64be32c673968b1fb3cd6640"
+            }
+          ],
+          "categories": ["meat", "vegetables"],
+          "price": 1119,
+          "netto": 96,
+          "unit": "pcs",
+          "pricePerUnit": 11.65,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T12:01:00.719Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd673e"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66be",
+          "name": "Refined Plastic Cheese",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5782906955890688",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66bf"
+            }
+          ],
+          "categories": ["dairy", "fruit"],
+          "price": 9074,
+          "netto": 87,
+          "unit": "l",
+          "pricePerUnit": 104.29,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T20:00:36.041Z",
+          "__v": 0
+        },
+        "amount": 7,
+        "_id": "64be32c673968b1fb3cd673f"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6638",
+          "name": "Ergonomic Fresh Soap",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1535944771502080",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6639"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4057736539013120",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd663a"
+            }
+          ],
+          "categories": ["beverage"],
+          "price": 6332,
+          "netto": 52,
+          "unit": "l",
+          "pricePerUnit": 121.76,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-23T16:37:12.860Z",
+          "__v": 0
+        },
+        "amount": 10,
+        "_id": "64be32c673968b1fb3cd6740"
+      }
+    ],
+    "price": 321654,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-18T01:32:17.487Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd671d",
+    "title": "Bespoke Plastic Sausages",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66b8",
+          "name": "Gorgeous Frozen Computer",
+          "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8081401091981312",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66b9"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5028660327219200",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66ba"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8110244802592768",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66bb"
+            }
+          ],
+          "categories": ["beverage"],
+          "price": 5767,
+          "netto": 33,
+          "unit": "g",
+          "pricePerUnit": 174.75,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T12:24:00.453Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd671e"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6681",
+          "name": "Gorgeous Wooden Shirt",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7955881314484224",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6682"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4857963038638080",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6683"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2921440242302976",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6684"
+            }
+          ],
+          "categories": ["fruit", "vegetables"],
+          "price": 5109,
+          "netto": 83,
+          "unit": "l",
+          "pricePerUnit": 61.55,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T06:26:49.882Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd671f"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd669d",
+          "name": "Bespoke Wooden Soap",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=728262015713280",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd669e"
+            }
+          ],
+          "categories": ["vegetables", "meat"],
+          "price": 5030,
+          "netto": 99,
+          "unit": "l",
+          "pricePerUnit": 50.8,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T17:26:38.787Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6720"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66df",
+          "name": "Incredible Fresh Salad",
+          "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6734852038590464",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66e0"
+            }
+          ],
+          "categories": ["meat", "vegetables", "dairy"],
+          "price": 5229,
+          "netto": 96,
+          "unit": "l",
+          "pricePerUnit": 54.46,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T04:31:22.878Z",
+          "__v": 0
+        },
+        "amount": 2,
+        "_id": "64be32c673968b1fb3cd6721"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66ad",
+          "name": "Electronic Wooden Sausages",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3581010400772096",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66ae"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3483402353246208",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66af"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4663489528332288",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66b0"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8437313635876864",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66b1"
+            }
+          ],
+          "categories": ["meat"],
+          "price": 4138,
+          "netto": 68,
+          "unit": "pcs",
+          "pricePerUnit": 60.85,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T23:10:56.678Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd6722"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6665",
+          "name": "Handcrafted Concrete Tuna",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5325936973053952",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6666"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5742607177089024",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6667"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2474473913581568",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6668"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7991301970591744",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6669"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 4337,
+          "netto": 38,
+          "unit": "g",
+          "pricePerUnit": 114.13,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T17:32:03.617Z",
+          "__v": 0
+        },
+        "amount": 3,
+        "_id": "64be32c673968b1fb3cd6723"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66ad",
+          "name": "Electronic Wooden Sausages",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3581010400772096",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66ae"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3483402353246208",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66af"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4663489528332288",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd66b0"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8437313635876864",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd66b1"
+            }
+          ],
+          "categories": ["meat"],
+          "price": 4138,
+          "netto": 68,
+          "unit": "pcs",
+          "pricePerUnit": 60.85,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T23:10:56.678Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6724"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66c0",
+          "name": "Rustic Soft Salad",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5462227375095808",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66c1"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5230360164040704",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd66c2"
+            }
+          ],
+          "categories": ["fruit", "beverage"],
+          "price": 1757,
+          "netto": 95,
+          "unit": "l",
+          "pricePerUnit": 18.49,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T06:01:31.132Z",
+          "__v": 0
+        },
+        "amount": 5,
+        "_id": "64be32c673968b1fb3cd6725"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd665d",
+          "name": "Handmade Metal Cheese",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5458002282807296",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd665e"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=666934878142464",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd665f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8343376577429504",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6660"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3228772211884032",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6661"
+            }
+          ],
+          "categories": ["fruit", "dairy", "fruit"],
+          "price": 2789,
+          "netto": 74,
+          "unit": "kg",
+          "pricePerUnit": 37.68,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-17T19:58:27.470Z",
+          "__v": 0
+        },
+        "amount": 2,
+        "_id": "64be32c673968b1fb3cd6726"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd667d",
+          "name": "Refined Frozen Soap",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2662831533064192",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd667e"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5705193886842880",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd667f"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=950207801982976",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6680"
+            }
+          ],
+          "categories": ["dairy", "fruit"],
+          "price": 7253,
+          "netto": 24,
+          "unit": "l",
+          "pricePerUnit": 302.2,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T15:04:56.296Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd6727"
+      }
+    ],
+    "price": 178495,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-17T09:11:08.581Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd674f",
+    "title": "Small Concrete Chair",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd666a",
+          "name": "Electronic Frozen Fish",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6852542474485760",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd666b"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6500761575882752",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd666c"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5055535592243200",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd666d"
+            }
+          ],
+          "categories": ["beverage", "meat"],
+          "price": 5250,
+          "netto": 44,
+          "unit": "l",
+          "pricePerUnit": 119.31,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-21T23:35:46.639Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd6750"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6665",
+          "name": "Handcrafted Concrete Tuna",
+          "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5325936973053952",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6666"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5742607177089024",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6667"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2474473913581568",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6668"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7991301970591744",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6669"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 4337,
+          "netto": 38,
+          "unit": "g",
+          "pricePerUnit": 114.13,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-18T17:32:03.617Z",
+          "__v": 0
+        },
+        "amount": 9,
+        "_id": "64be32c673968b1fb3cd6751"
+      }
+    ],
+    "price": 70533,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-16T02:48:31.568Z",
+    "__v": 0
+  },
+  {
+    "_id": "64be32c673968b1fb3cd6746",
+    "title": "Rustic Granite Chips",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "products": [
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6677",
+          "name": "Awesome Plastic Hat",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=1829012955463680",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6678"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2060830608719872",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6679"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=8492469998059520",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd667a"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=693373411262464",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd667b"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5394100576583680",
+              "fileName": "image-4",
+              "_id": "64be32c673968b1fb3cd667c"
+            }
+          ],
+          "categories": ["vegetables"],
+          "price": 2254,
+          "netto": 32,
+          "unit": "kg",
+          "pricePerUnit": 70.43,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-21T10:41:32.407Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd6747"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6624",
+          "name": "Unbranded Wooden Fish",
+          "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5392236271370240",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6625"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5375948329320448",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6626"
+            }
+          ],
+          "categories": ["fruit"],
+          "price": 4371,
+          "netto": 82,
+          "unit": "kg",
+          "pricePerUnit": 53.3,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-22T18:47:17.424Z",
+          "__v": 0
+        },
+        "amount": 1,
+        "_id": "64be32c673968b1fb3cd6748"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6662",
+          "name": "Luxurious Fresh Soap",
+          "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2980464438542336",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6663"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=859377925881856",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6664"
+            }
+          ],
+          "categories": ["dairy", "food", "food"],
+          "price": 2042,
+          "netto": 93,
+          "unit": "l",
+          "pricePerUnit": 21.95,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-23T16:58:43.022Z",
+          "__v": 0
+        },
+        "amount": 5,
+        "_id": "64be32c673968b1fb3cd6749"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd668b",
+          "name": "Recycled Wooden Chicken",
+          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2426650568425472",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd668c"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=3040967126941696",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd668d"
+            }
+          ],
+          "categories": ["dairy", "dairy", "vegetables"],
+          "price": 5807,
+          "netto": 47,
+          "unit": "g",
+          "pricePerUnit": 123.55,
+          "store": "Alfamart",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-21T21:38:33.168Z",
+          "__v": 0
+        },
+        "amount": 6,
+        "_id": "64be32c673968b1fb3cd674a"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6655",
+          "name": "Awesome Granite Ball",
+          "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2668594504663040",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6656"
+            }
+          ],
+          "categories": ["food"],
+          "price": 9688,
+          "netto": 35,
+          "unit": "l",
+          "pricePerUnit": 276.8,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T07:42:19.982Z",
+          "__v": 0
+        },
+        "amount": 7,
+        "_id": "64be32c673968b1fb3cd674b"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6681",
+          "name": "Gorgeous Wooden Shirt",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=7955881314484224",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6682"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4857963038638080",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6683"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2921440242302976",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6684"
+            }
+          ],
+          "categories": ["fruit", "vegetables"],
+          "price": 5109,
+          "netto": 83,
+          "unit": "l",
+          "pricePerUnit": 61.55,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-16T06:26:49.882Z",
+          "__v": 0
+        },
+        "amount": 1,
+        "_id": "64be32c673968b1fb3cd674c"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd6671",
+          "name": "Intelligent Steel Salad",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4281754332430336",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd6672"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=2831466960519168",
+              "fileName": "image-1",
+              "_id": "64be32c673968b1fb3cd6673"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=5073535336710144",
+              "fileName": "image-2",
+              "_id": "64be32c673968b1fb3cd6674"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=4580797568778240",
+              "fileName": "image-3",
+              "_id": "64be32c673968b1fb3cd6675"
+            },
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6264651920703488",
+              "fileName": "image-4",
+              "_id": "64be32c673968b1fb3cd6676"
+            }
+          ],
+          "categories": ["dairy", "meat"],
+          "price": 4954,
+          "netto": 19,
+          "unit": "g",
+          "pricePerUnit": 260.73,
+          "store": "Soen Swalayan",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-15T06:25:00.842Z",
+          "__v": 0
+        },
+        "amount": 4,
+        "_id": "64be32c673968b1fb3cd674d"
+      },
+      {
+        "product": {
+          "_id": "64be32c673968b1fb3cd66df",
+          "name": "Incredible Fresh Salad",
+          "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+          "images": [
+            {
+              "path": "https://loremflickr.com/640/480/food?lock=6734852038590464",
+              "fileName": "image-0",
+              "_id": "64be32c673968b1fb3cd66e0"
+            }
+          ],
+          "categories": ["meat", "vegetables", "dairy"],
+          "price": 5229,
+          "netto": 96,
+          "unit": "l",
+          "pricePerUnit": 54.46,
+          "store": "Indomaret",
+          "pinned": false,
+          "author": "64af52faec89e883a2a0a567",
+          "created": "2023-07-24T04:31:22.878Z",
+          "__v": 0
+        },
+        "amount": 5,
+        "_id": "64be32c673968b1fb3cd674e"
+      }
+    ],
+    "price": 181833,
+    "author": "64af52faec89e883a2a0a567",
+    "created": "2023-07-15T22:53:19.921Z",
+    "__v": 0
+  }
+]

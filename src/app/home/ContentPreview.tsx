@@ -16,7 +16,7 @@ const ContentPreview = function ContentPreviewComponent() {
 
   return (
     <Box component="section">
-      <Grid container>
+      <Grid container sx={{ mb: 2 }}>
         <Grid
           item
           xs={6}
