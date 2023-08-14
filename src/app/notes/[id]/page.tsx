@@ -1,7 +1,16 @@
 import React from 'react';
+import Typography from '@mui/material/Typography';
 
-const NoteDetails = function NoteDetailsComponent() {
-  return <h1>NoteDetails</h1>;
+import type { NoteDetailsProps } from 'types/notes.d.ts';
+
+const NoteDetails = function NoteDetailsComponent({
+  params: { id },
+}: NoteDetailsProps) {
+  return (
+    <Typography variant="h4" component="h1">
+      NoteDetails {id}
+    </Typography>
+  );
 };
 
 export default NoteDetails;

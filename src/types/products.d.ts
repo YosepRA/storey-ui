@@ -24,3 +24,15 @@ export interface Product {
 export interface ProductCardProps {
   data: Product;
 }
+
+export interface ProductDetailsProps {
+  params: {
+    id: string;
+  };
+}
+
+export interface ProductEditProps {
+  params: {
+    id: string;
+  };
+}

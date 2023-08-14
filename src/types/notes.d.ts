@@ -6,7 +6,7 @@ export interface Product {
   _id: string;
 }
 
-export interface Root {
+export interface Note {
   _id: string;
   title: string;
   description: string;
@@ -15,4 +15,16 @@ export interface Root {
   author: string;
   created: string;
   __v: number;
+}
+
+export interface NoteDetailsProps {
+  params: {
+    id: string;
+  };
+}
+
+export interface NoteEditProps {
+  params: {
+    id: string;
+  };
 }

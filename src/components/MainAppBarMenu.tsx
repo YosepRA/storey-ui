@@ -4,13 +4,10 @@ import Drawer from '@mui/material/Drawer';
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import { styled } from '@mui/material/styles';
 
 import type { MainAppBarMenuProps } from 'types/main-app-bar.d.ts';
 
-const MenuItem = styled(Link)`
-  display: block;
-`;
+import MenuItem from './styled/MenuItem.tsx';
 
 const MainAppBarMenu = function MainAppBarMenuComponent({
   open,
@@ -37,7 +34,15 @@ const MainAppBarMenu = function MainAppBarMenuComponent({
 
         <Box sx={{}}>
           <MenuItem href="/products">Products</MenuItem>
+          <MenuItem href="/products/1">Products details</MenuItem>
+          <MenuItem href="/products/new">Products new</MenuItem>
+          <MenuItem href="/products/edit/1">Products edit</MenuItem>
           <MenuItem href="/notes">Notes</MenuItem>
+          <MenuItem href="/notes/1">Notes details</MenuItem>
+          <MenuItem href="/notes/new">Notes new</MenuItem>
+          <MenuItem href="/notes/edit/1">Notes edit</MenuItem>
+          <MenuItem href="/user/login">Login</MenuItem>
+          <MenuItem href="/user/register">Register</MenuItem>
         </Box>
       </Container>
     </Drawer>
