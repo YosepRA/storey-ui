@@ -4,6 +4,7 @@ import React from 'react';
 import { useRouter } from 'next/navigation';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
+import Paper from '@mui/material/Paper';
 import IconButton from '@mui/material/IconButton';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
@@ -12,7 +13,14 @@ const HeadControl = function HeadControlComponent() {
   const router = useRouter();
 
   return (
-    <Box justifyContent="space-between" alignItems="center">
+    <Paper
+      elevation={2}
+      sx={{
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+      }}
+    >
       <Container>
         <Box
           sx={{
@@ -31,7 +39,7 @@ const HeadControl = function HeadControlComponent() {
           </IconButton>
         </Box>
       </Container>
-    </Box>
+    </Paper>
   );
 };
 

@@ -1,7 +1,9 @@
+import type { FormikProps } from 'formik';
+
 export interface Image {
   path: string;
   fileName: string;
-  _id: string;
+  _id?: string;
 }
 
 export interface Product {
@@ -35,4 +37,17 @@ export interface ProductEditProps {
   params: {
     id: string;
   };
+}
+
+export interface ProductFormProps {
+  formikProps: FormikProps;
+}
+export interface ProductFormValues {
+  categories: string;
+  name: string;
+  store?: string;
+  price: number;
+  unit: string;
+  images?: Image[];
+  description: string;
 }

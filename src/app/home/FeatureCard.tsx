@@ -42,7 +42,7 @@ const FeatureCard = function FeatureCardComponent({
           <Typography variant="body1">{capitalizeFirstLetter(type)}</Typography>
         </Grid>
         <Grid item xs={2}>
-          <Link href={`/${type}`}>
+          <Link href={`/${type}/new`}>
             <IconButton>
               <AddIcon />
             </IconButton>
